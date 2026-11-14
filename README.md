@@ -39,10 +39,15 @@ Make sure you have the following installed before running the scripts:
    python3 script_name.py
    ```
 
+### Reading Python Scripts
+"Create server.txt (or any filename configured in the script) in the same directory as the script so it can read the server list."
+
+
 ## Scripts Overview
 
 | Script Name | Type | Description |
 | :--- | :--- | :--- |
 | `example.sh` | Shell | Brief description of what this shell script does. |
 | `example.py` | Python | Brief description of what this Python script does. |
+
 
